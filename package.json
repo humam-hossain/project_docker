@@ -1,0 +1,15 @@
+{
+  "name": "project_docker",
+  "version": "1.0.0",
+  "description": "Learning Docker",
+  "main": "index.js",
+  "repository": "https://github.com/humam-hossain/project_docker.git",
+  "author": "Muhammed Humam Hossain <66829442+humam-hossain@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
